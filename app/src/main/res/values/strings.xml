@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vamos rachar</string>
+
+    <!-- Images descriptions -->
+    <string name="app_logo">Logo Vamos rachar</string>
+    <string name="money_icon">Ícone de dinheiro</string>
+    <string name="group_icon">Ícone de grupo de pessoas</string>
+
+    <!-- initial texts -->
+    <string name="initial_value">0,00</string>
+
+</resources>
