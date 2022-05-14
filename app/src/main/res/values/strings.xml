@@ -1,12 +1,21 @@
 <resources>
-    <string name="app_name">Vamos rachar</string>
+
+    <string name="app_name">Let\'s divide</string>
 
     <!-- Images descriptions -->
-    <string name="app_logo">Logo Vamos rachar</string>
-    <string name="money_icon">Ícone de dinheiro</string>
-    <string name="group_icon">Ícone de grupo de pessoas</string>
+    <string name="app_logo">Logo let\'s divide</string>
+    <string name="money_icon">money icon to input</string>
+    <string name="money_result_icon">money icon to result</string>
+    <string name="group_icon">people group icon</string>
 
-    <!-- initial texts -->
+    <!-- Initial texts -->
     <string name="initial_value">0,00</string>
 
+    <!-- Content descriptions -->
+    <string name="share_button_description">share bill</string>
+    <string name="sound_button_description">talk bill value</string>
+
+    <!-- Hints -->
+    <string name="input_money_hint">Type value here</string>
+    <string name="input_group_hint">Type amount of people here</string>
 </resources>
